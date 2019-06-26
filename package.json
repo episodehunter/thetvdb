@@ -19,7 +19,7 @@
     "node-fetch": "^2.3.0"
   },
   "devDependencies": {
-    "@types/jest": "24.0.13",
+    "@types/jest": "24.0.15",
     "jest": "24.8.0",
     "simple-spy": "2.2.1",
     "ts-jest": "24.0.2",
